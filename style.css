@@ -91,6 +91,35 @@ figcaption{
     margin: 20px auto;
 }
 
+/* main Projects page */
+.projects-list{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+.projects-item{
+    display: block;
+    margin: 25px auto;
+    background: linear-gradient(30deg, mediumseagreen, yellow);
+    color: black;
+    text-decoration: none;
+    width: 600px;
+    font-size: 23px;
+    padding: 15px 20px;
+    border-radius: 50px;
+}
+.project-item:hover{
+    background: orange;
+    color: white;
+}
+.projectnum{
+    background-color: white;
+    color: mediumseagreen;
+    padding: 5px 12px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
 /* Footer for every page */
 footer{
     margin-top: 30px;
