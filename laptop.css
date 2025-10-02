@@ -1,0 +1,17 @@
+.top-links a {
+    margin: 0 20px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+.project-item {
+    width: 600px;
+    font-size: 23px;
+}
+
+#wrapper {
+    width: 60%;
+}
+.prompts {
+    width: 60%;
+}
