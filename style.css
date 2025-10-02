@@ -223,3 +223,20 @@ footer a{
 footer a:hover{
     color: orange;
 }
+
+/* Links for the footers */
+.Social-Media-Links{
+    text-align: center;
+    margin: 30px auto;
+}
+.Social-Media-Links a{
+    margin: 0 15px;
+}
+.Social-Media-Links img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.Social-Media-Links img:hover{
+    opacity: 50%;
+}
