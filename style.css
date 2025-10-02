@@ -8,7 +8,7 @@ body{
 }
 
 /* The titles for all of the pages */
-.homepage-title{
+.homepage-title, .page-title{
     color: white;
     font-size: 40px;
     text-align: center;
@@ -60,6 +60,35 @@ body{
 }
 .box:hover{
     background-color: rgb(93, 0, 255);
+}
+
+/* About me page */
+figure{
+    background-color: white;
+    width: 200px;
+    margin: 20px auto;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid black;
+}
+figcaption{
+    text-align: center;
+    font-size: large;
+    background-color: orange;
+    color: white;
+    padding: 1px;
+}
+.intro{
+    text-align: center;
+    margin: 20px auto;
+}
+.vid{
+    text-align: center;
+    margin: 20px auto;
+}
+.games-info{
+    text-align: center;
+    margin: 20px auto;
 }
 
 /* Footer for every page */
