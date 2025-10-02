@@ -91,6 +91,27 @@ figcaption{
     margin: 20px auto;
 }
 
+/* Resume sections on About Me page */
+.resume-section{
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    color: white;
+}
+.resume-section h2{
+    color: orange;
+    margin-bottom: 10px;
+}
+.resume-section h3{
+    color: yellow;
+    margin-top: 15px;
+}
+.resume-section {
+    margin: 5px 0;
+    width: auto;
+    text-align: center;
+}
+
 /* main Projects page */
 .projects-list{
     width: 80%;
