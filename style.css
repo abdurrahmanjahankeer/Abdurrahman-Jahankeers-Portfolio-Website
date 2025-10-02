@@ -153,6 +153,35 @@ figcaption{
     background-color: rgb(93, 0, 255);
 }
 
+/* Contact Me page */
+#wrapper{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+.prompts{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+.prompts input, .prompts textarea{
+    width: 100%;
+    padding: 5px;
+    margin-top: 0;
+}
+button{
+    width: 80px;
+    height: 30px;
+    margin-top: -20px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: orange;
+}
+
 /* Footer for every page */
 footer{
     margin-top: 30px;
