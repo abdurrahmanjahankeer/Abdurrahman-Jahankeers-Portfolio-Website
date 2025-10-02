@@ -1,0 +1,14 @@
+/* Mobile version */
+.top-links a {
+    float: none;
+    margin: 5px;
+    display: block;
+}
+.box {
+    margin-left: auto;
+    margin-right: auto;
+}
+.project-item {
+    width: 90%;
+    margin-left: 0;
+}
