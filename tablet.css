@@ -1,8 +1,60 @@
-/* Tablet version */
-.top-links a {
-    margin: 0 20px;
-    padding: 5px 15px;
+/* Tablet styles (481px–959px) */
+
+h1{
+    font-size: 26px;
+    text-align: center;
 }
-.project-item {
+h2, h3{
+    font-size: 20px;
+    text-align: center;
+}
+video{
     width: 80%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+}
+.top-links{
+    text-align: center;
+}
+.top-links a{
+    display: block;
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.project-explanation h4{
+    font-size: 16px;
+}
+
+.project-item{
+    display: block;
+    width: 80%;
+    font-size: 16px;
+    margin: 15px auto;
+}
+.bottom-links{
+    text-align: center;
+}
+.bottom-links a{
+    line-height: 0;
+}
+.box{
+    width: 150px;
+    height: 60px;
+    margin: 15px auto;
+    background: black;
+    border-radius: 75px;
+    text-align: center;
+}
+
+.box a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 60px;
 }

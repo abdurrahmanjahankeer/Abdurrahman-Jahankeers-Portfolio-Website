@@ -1,14 +1,52 @@
-/* Mobile version */
-.top-links a {
-    float: none;
-    margin: 5px;
-    display: block;
+/* Mobile styles (0px–480px) */
+
+h1 {
+    font-size: 18px;
+    text-align: center;
 }
-.box {
-    margin-left: auto;
-    margin-right: auto;
+h2, h3{
+    font-size: 16px;
+    text-align: center;
 }
-.project-item {
+video{
     width: 90%;
-    margin-left: 0;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+.top-links{
+    text-align: center;
+}
+.top-links a{
+    display: block;
+    width: 90%;
+    margin: 8px auto;
+    padding: 8px;
+    font-size: 14px;
+}
+.project-explanation h4{
+    font-size: 14px;
+}
+.project-item{
+    display: block;
+    width: 90%;
+    font-size: 14px;
+    margin: 10px auto;
+}
+.bottom-links{
+    text-align: center;
+}
+.bottom-links a{
+    line-height: 0;
+}
+.box{
+    width: 120px;
+    height: 50px;
+    margin: 10px auto;
+    font-size: 14px;
+    background: black;
+    color: white;
+    border-radius: 75px;
+    text-align: center;
+    line-height: 50px;
 }
