@@ -1,6 +1,7 @@
 /* Laptop styles (960px and up) */
 /* Same as Regular Style Sheet */
 
+/* The background for all of the pages */
 body{
     margin: 0;
     padding: 0;
@@ -8,6 +9,8 @@ body{
     font-family: Arial, sans-serif;
     color: white;
 }
+
+/* The titles for all of the pages */
 .homepage-title, .page-title{
     color: white;
     font-size: 40px;
@@ -18,6 +21,8 @@ body{
     font-size: 30px;
     text-align: center;
 }
+
+/* The navigation bar at the top */
 .top-links{
     text-align: center;
     background-color: black;
@@ -35,6 +40,8 @@ body{
 .top-links a:hover{
     background-color: rgb(69, 104, 130);
 }
+
+/* Home page navigation bar at the bottom */
 .bottom-links{
     text-align: center;
     margin-top: 40px;
@@ -57,6 +64,8 @@ body{
 .box:hover{
     background-color: rgb(93, 0, 255);
 }
+
+/* About me page */
 figure{
     background-color: white;
     width: 200px;
@@ -84,6 +93,8 @@ figcaption{
     text-align: center;
     margin: 20px auto;
 }
+
+/* Resume sections on About Me page */
 .resume-section{
     width: 80%;
     margin: 30px auto;
@@ -103,6 +114,8 @@ figcaption{
     width: auto;
     text-align: center;
 }
+
+/* main Projects page */
 .projects-list{
     width: 80%;
     margin: 20px auto;
@@ -130,6 +143,8 @@ figcaption{
     border-radius: 50%;
     margin-right: 10px;
 }
+
+/* The 5 Project pages */
 .project-explanation{
     text-align: center;
     margin: 30px auto;
@@ -166,6 +181,8 @@ figcaption{
 .project-nav-box:hover{
     background-color: orange;
 }
+
+/* Contact Me page */
 #wrapper{
     margin: 0 auto;
     width: 80%;
@@ -193,6 +210,8 @@ button{
 button:hover{
     background-color: orange;
 }
+
+/* Footer for every page */
 footer{
     margin-top: 30px;
     margin-bottom: 30px;
@@ -207,6 +226,8 @@ footer a{
 footer a:hover{
     color: orange;
 }
+
+/* Links for the footers */
 .Social-Media-Links{
     text-align: center;
     margin: 30px auto;
