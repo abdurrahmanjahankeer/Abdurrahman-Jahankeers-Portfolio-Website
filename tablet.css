@@ -14,6 +14,7 @@ video{
     display: block;
     margin: 15px auto;
 }
+/* The navigation bar at the top */
 .top-links{
     text-align: center;
 }
@@ -24,6 +25,7 @@ video{
     padding: 10px;
     font-size: 16px;
 }
+/* The 5 Project pages */
 .project-explanation h4{
     font-size: 16px;
 }
@@ -34,6 +36,7 @@ video{
     font-size: 16px;
     margin: 15px auto;
 }
+/* Home page navigation bar at the bottom */
 .bottom-links{
     text-align: center;
 }
